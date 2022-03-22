@@ -1,5 +1,5 @@
 - 👋 Olá! Eu sou o Kaleu Farias
-- 🌱 Estou estudando JavaScript     
+- 🌱 Estou estudando JavaScript, HTML e CSS  
 
 ##
 
