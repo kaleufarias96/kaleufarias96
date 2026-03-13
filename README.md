@@ -1,5 +1,7 @@
 - 👋 Olá! Eu sou o Kaleu Farias
-- 🌱 Estou estudando JavaScript, HTML e CSS  
+- 🌱 Estou estudando JavaScript, HTML e CSS
+
+- 🔭 Atualmente trabalhando como Full-stack Siapesq
 
 ##
 
